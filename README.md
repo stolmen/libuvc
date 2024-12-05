@@ -4,6 +4,9 @@ It enables fine-grained control over USB video devices exporting the standard US
 or just access UVC devices in a generic fashion.
 
 
+## Binary location: 
+see bin/
+
 ## Ed: building libuvc from the Tiliter windows machine: 
 
 Download binaries for:
